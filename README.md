@@ -9,8 +9,7 @@
 
 ## Tampilan Aplikasi
 
-![Img 1](Screenshot 1.png)
-
+<img src="Screenshot 1.png" alt="Screenshot Aplikasi" width="700">
 
 ## About Laravel
 
