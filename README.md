@@ -11,6 +11,40 @@
 
 <img src="Screenshot 1.png" alt="Screenshot Aplikasi" width="700">
 
+## Tentang Aplikasi
+Monitoring Peminjaman Barang adalah aplikasi berbasis web yang dirancang untuk mengelola alur peminjaman dan pengembalian barang secara sistematis di lingkungan sekolah, kantor, laboratorium, atau organisasi lainnya. Aplikasi ini membantu admin dalam mengatur inventaris barang, mencatat setiap transaksi peminjaman, memantau status barang, serta mengelola informasi peminjam secara terstruktur.
+
+Fitur Utama Aplikasi:
+1. Dashboard
+Menampilkan informasi statistik secara cepat:
+
+-Jumlah total barang
+-Jumlah barang yang sedang dipinjam
+-Progres Masa Batas Peminjaman
+
+2. Manajemen Data Barang
+Admin dapat menambahkan, mengedit, dan menghapus data barang.
+
+Data barang mencakup:
+
+-Nama barang
+-Jenis Barang
+-Stok tersedia
+
+
+3. Manajemen Data Peminjam
+Menu khusus untuk mencatat dan mengelola data peminjam.
+
+Data mencakup:
+-Nama peminjam
+-Jumlah barang dipinjam
+-tanggal pinjam 
+-tanggal kembali
+-Masa Peminjaman
+
+Memudahkan pelacakan siapa yang meminjam barang dan histori peminjamannya.
+
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
